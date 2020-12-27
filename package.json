@@ -1,0 +1,21 @@
+{
+  "name": "jb-icomoon",
+  "version": "1.0.3",
+  "description": "Set of icons from icomoon",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelbarba/jb-icomoon.git"
+  },
+  "keywords": [
+    "icon"
+  ],
+  "author": "Joel Barba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelbarba/jb-icomoon/issues"
+  },
+  "homepage": "https://github.com/joelbarba/jb-icomoon#readme"
+}
